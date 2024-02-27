@@ -1,0 +1,1 @@
+- Centrar la imagen mainimg
