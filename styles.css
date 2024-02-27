@@ -192,3 +192,21 @@ navbar{
     margin-top: -50%;
     margin-left: 50%;
 }
+
+#imgabajo{
+    width: 586px;
+    height: 586px;
+}
+
+#divfinal{
+    justify-content: center;
+    display: flex;
+}
+
+#purplesquare{
+    width: 586px;
+    height: 586px;
+    background-color: #B1C5FF;
+    display: grid;
+    place-items: center;
+}
