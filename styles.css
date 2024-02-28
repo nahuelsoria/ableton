@@ -106,12 +106,14 @@ navbar{
     position: absolute;
     margin-top: -44%;
     margin-left: 10%;
+    object-fit: cover;
 }
 
 #imagensobreyellow2{
     position: absolute;   
     margin-top: -37%;
     margin-left: 50%;
+    object-fit: cover;
 }
 
 #videito{
@@ -141,6 +143,8 @@ navbar{
     height: 25vw;
     margin-top: -70%;
     margin-left: 6%;
+    object-fit: cover;
+    object-fit: cover;
 }
 
 #imggreen2{
@@ -149,6 +153,7 @@ navbar{
     margin-top: -35%;
     width: 33.33333vw;
     height: 25vw;
+    object-fit: cover;
 }
 
 #imggreen3{
@@ -157,6 +162,7 @@ navbar{
     height: 41.66667vw;
     margin-top: -60%;
     margin-left: 45%;
+    object-fit: cover;
 }
 
 #consola{
@@ -183,6 +189,7 @@ navbar{
     position: absolute;
     margin-top: -45%;
     margin-left: 3%;
+    object-fit: cover;
 }
 
 #violetimg2{
@@ -191,6 +198,7 @@ navbar{
     position: absolute;
     margin-top: -50%;
     margin-left: 50%;
+    object-fit: cover;
 }
 
 #imgabajo{
