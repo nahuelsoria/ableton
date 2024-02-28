@@ -210,3 +210,39 @@ navbar{
     display: grid;
     place-items: center;
 }
+
+footer{
+    margin-top: 5%;
+    border-style: solid;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top-width: 2px;
+    border-color:lightgray;
+}
+
+#primerfooter{
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+#separador{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.textfooter{
+    font-family: futura-pt, Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.25rem;
+}
+
+.titlefooter{
+    font-family: futura-pt, Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.25rem;
+}
