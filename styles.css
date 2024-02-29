@@ -204,6 +204,7 @@ navbar{
 #imgabajo{
     width: 586px;
     height: 586px;
+    object-fit: cover;
 }
 
 #divfinal{
@@ -252,4 +253,42 @@ footer{
 
 .titlefooter{
     font-weight: 600;
+}
+
+#inputmail{
+    font-family: futura-pt, Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: inherit;
+    width: 100%;
+    margin: 0;
+    padding: 0.4em 0.75em;
+    background: transparent;
+    background-color: #eee;
+    border: 0;
+    user-select: none;
+    font-weight: normal;
+    border-radius: 0;
+}
+
+#botonfinal{
+    justify-content: center;
+    margin: 0;
+    width: 30%;
+    padding: 0.35em 1.5em;
+    font-family: futura-pt, Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: inherit;
+    color: #fff !important;
+    background: blue;
+    border: 0;
+    border-radius: 0;
+    cursor: pointer;
+}
+
+#footersignup{
+    display: flex;
+    margin-top: 3%;
+}
+
+#socials{
+    margin-top: 10%;
 }
